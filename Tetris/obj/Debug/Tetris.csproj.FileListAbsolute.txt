@@ -1,0 +1,8 @@
+C:\Users\ofric\Desktop\Programming\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\ofric\Desktop\Programming\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\ofric\Desktop\Programming\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\ofric\Desktop\Programming\Tetris\Tetris\bin\Debug\OpenGL.dll.config
+C:\Users\ofric\Desktop\Programming\Tetris\Tetris\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\ofric\Desktop\Programming\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\ofric\Desktop\Programming\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\ofric\Desktop\Programming\Tetris\Tetris\obj\Debug\Tetris.pdb
